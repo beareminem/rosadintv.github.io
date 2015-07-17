@@ -1,2 +1,1 @@
-7
-http://rosadintv.github.io/Updates/MPV_Player.zip
+7,http://rosadintv.github.io/Updates/MPV_Player.zip

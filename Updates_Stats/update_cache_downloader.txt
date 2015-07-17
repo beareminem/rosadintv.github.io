@@ -1,2 +1,1 @@
-8
-http://rosadintv.github.io/Updates/Cache_Downloader.zip
+8,http://rosadintv.github.io/Updates/Cache_Downloader.zip

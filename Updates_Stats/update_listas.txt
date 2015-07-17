@@ -1,2 +1,1 @@
-32
-http://rosadintv.github.io/Updates/Listas.zip
+32,http://rosadintv.github.io/Updates/Listas.zip

@@ -1,2 +1,1 @@
-79
-http://rosadintv.github.io/Updates/RosadinTV.zip
+79,http://rosadintv.github.io/Updates/RosadinTV.zip
