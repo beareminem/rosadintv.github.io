@@ -1,2 +1,2 @@
 8
-http://master.dl.sourceforge.net/project/rosadintv/Updates/Cache_Downloader.zip
+http://rosadintv.github.io/Updates/Cache_Downloader.zip

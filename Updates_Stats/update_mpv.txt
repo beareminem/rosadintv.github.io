@@ -1,2 +1,2 @@
 7
-http://master.dl.sourceforge.net/project/rosadintv/Updates/MPV_Player.zip
+http://rosadintv.github.io/Updates/MPV_Player.zip

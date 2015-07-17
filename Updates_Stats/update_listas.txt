@@ -1,2 +1,2 @@
 32
-http://master.dl.sourceforge.net/project/rosadintv/Updates/Listas.zip
+http://rosadintv.github.io/Updates/Listas.zip

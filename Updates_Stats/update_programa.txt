@@ -1,2 +1,2 @@
 79
-http://master.dl.sourceforge.net/project/rosadintv/Updates/RosadinTV.zip
+http://rosadintv.github.io/Updates/RosadinTV.zip

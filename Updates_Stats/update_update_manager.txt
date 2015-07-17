@@ -1,2 +1,2 @@
 10
-http://master.dl.sourceforge.net/project/rosadintv/Update_Manager.zip
+http://rosadintv.github.io/Update_Manager.zip
