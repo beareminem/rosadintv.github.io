@@ -1,0 +1,2 @@
+10
+http://master.dl.sourceforge.net/project/rosadintv/Update_Manager.zip
