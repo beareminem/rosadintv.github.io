@@ -1,1 +1,1 @@
-99,http://rosadintv.github.io/Updates/RosadinTV.zip
+100,http://rosadintv.github.io/Updates/RosadinTV.zip
