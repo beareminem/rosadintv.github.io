@@ -1,1 +1,1 @@
-10,http://rosadintv.github.io/Update_Manager.zip
+11,http://rosadintv.github.io/
