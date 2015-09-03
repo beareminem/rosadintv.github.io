@@ -24,6 +24,6 @@ link=http://rosadintv.github.io/Actualizaciones/Listas.zip
 destino=Listas
 
 [RosadinTV]
-version=10
+version=11
 link=http://rosadintv.github.io/Actualizaciones/RosadinTV.zip
 destino=
