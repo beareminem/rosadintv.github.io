@@ -19,7 +19,7 @@ link=http://rosadintv.github.io/Actualizaciones/Livestreamer.zip
 destino=Archivos\Livestreamer
 
 [Listas]
-version=9
+version=10
 link=http://rosadintv.github.io/Actualizaciones/Listas.zip
 destino=Listas
 
