@@ -24,7 +24,7 @@ link=http://rosadintv.github.io/Actualizaciones/rtmpdump.zip
 destino=Archivos\Livestreamer
 
 [Listas]
-version=12
+version=13
 link=http://rosadintv.github.io/Actualizaciones/Listas.zip
 destino=Listas
 
