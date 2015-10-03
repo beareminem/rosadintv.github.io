@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,Simpsons TV
+http://vaughnlive.tv/mega_simpson
+#EXTINF:-1,Radio Uno Plus
+http://streaming.radionomy.com/radiounoplus
+#EXTINF:-1,ONE TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1,TV Publica HD
+hlsvariant://http://rtvsource.webcindario.com/TV_PUBLICA.php
+#EXTINF:-1,Canal 9 HD
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+#EXTINF:-1,Telefe HD
+hlsvariant://http://rtvsource.webcindario.com/TELEFE.php?F=.m3u8
+#EXTINF:-1,El Trece HD
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1,America TV
+https://www.youtube.com/watch?v=IFcUP8xs27A
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,Vivra
+http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Pakapaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1,TaTeTi
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1,Telesur
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
+#EXTINF:-1,G360
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1,RT
+http://rt-a.akamaihd.net/ch_02@325606/master.m3u8
+#EXTINF:-1,Vevo HD 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,Vevo HD 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,Vevo HD 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,Music Box
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
+#EXTINF:-1,Xtreme Impacs
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
+#EXTINF:-1,Now Music
+PLAYER://http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Radio Disney (94.3)
+PLAYER://http://disneyargradio-lh.akamaihd.net/i/ARG_Disney_RADIO@102438/master.m3u8
+#EXTINF:-1,Vale (97.5)
+PLAYER://http://vale.stweb.tv:1935/vale/live/playlist.m3u8
+#EXTINF:-1,Radio One (103.7)
+PLAYER://http://server5.stweb.tv:1935/one/live/playlist.m3u8
+#EXTINF:-1,Pop Radio (101.5)
+PLAYER://http://popradio.stweb.tv:1935/popradio/live/playlist.m3u8
+#EXTINF:-1,Los 40 principales (105.5)
+PLAYER://http://7309.live.streamtheworld.com/LOS40_ARGENTINAAAC
+#EXTINF:-1,Canal 11 MEX Internacional
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1,Canal 9 Chile
+http://wow2.cl.digitalproserver.com/c9//c9.smil/master.m3u8
+#EXTINF:-1,Mega HD
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
+#EXTINF:-1,TVN HD
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/master.m3u8
+#EXTINF:-1,TV Chile
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/master.m3u8
+#EXTINF:-1,Vive TV
+http://200.104.250.182:1935/vtr_vivedeportes_online/vivedeportes-ipad/master.m3u8
+#EXTINF:-1,Telecanal
+http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/master.m3u8

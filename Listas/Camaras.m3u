@@ -1,0 +1,389 @@
+#EXTM3U
+#EXTINF:-1,Canal 79 (Mar del Plata)
+http://painel.serveron.com.br:1935/8168/8168/playlist.m3u8
+#EXTINF:-1,Canal 79 (La Costa)
+http://painel.serveron.com.br:1935/8170/8170/playlist.m3u8
+#EXTINF:-1,Canal 79 (San Juan)
+http://painel.serveron.com.br:1935/8162/8162/playlist.m3u8
+#EXTINF:-1,Canal 79 (Rosario)
+http://painel.serveron.com.br:1935/8162/8163/playlist.m3u8
+#EXTINF:-1,Cyber Ruso
+http://212.42.54.137:8008/mjpg/video.mjpg
+#EXTINF:-1,Universidad de Oregon
+http://151cam.uoregon.edu/mjpg/video.mjpg
+#EXTINF:-1,Tusto Pizza (Bar)
+http://46.28.111.70:9094/stream.flv
+#EXTINF:-1,Tusto Pizza (Pizza)
+http://46.28.111.70:9092/stream.flv
+#EXTINF:-1,Tusto Pizza (Cocina)
+http://46.28.111.70:9091/stream.flv
+#EXTINF:-1,Abbey Road Crossing
+http://video4.earthcam.com:1935/fecnetwork/AbbeyRoadHD1.flv/playlist.m3u8
+#EXTINF:-1,5th Avenue Cam
+http://video4.earthcam.com:1935/fecnetwork/fridays_5th.flv/playlist.m3u8
+#EXTINF:-1,Andy Warhol FigmentCam
+http://video4.earthcam.com:1935/fecnetwork/5595.flv/playlist.m3u8
+#EXTINF:-1,Boston Cam
+http://video4.earthcam.com:1935/fecnetwork/4049sonesta.flv/playlist.m3u8
+#EXTINF:-1,Brooklyn Bridge
+http://video4.earthcam.com:1935/fecnetwork/3983.flv/playlist.m3u8
+#EXTINF:-1,Dublin Pub Cam
+http://video4.earthcam.com:1935/fecnetwork/4054.flv/playlist.m3u8
+#EXTINF:-1,Florida Flight Cam
+http://video4.earthcam.com:1935/fecnetwork/7571.flv/playlist.m3u8
+#EXTINF:-1,Miami Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/miamivishd1.flv/playlist.m3u8
+#EXTINF:-1,Moscow Skyline Cam
+http://video4.earthcam.com:1935/fecnetwork/moscowHD1.flv/playlist.m3u8
+#EXTINF:-1,New Orleans Bourbon Street
+http://video4.earthcam.com:1935/fecnetwork/4280.flv/playlist.m3u8
+#EXTINF:-1,Oak Harbor Cam
+http://video4.earthcam.com:1935/fecnetwork/6172.flv/playlist.m3u8
+#EXTINF:-1,Paterson Falls Cam
+http://video4.earthcam.com:1935/fecnetwork/4918.flv/playlist.m3u8
+#EXTINF:-1,Seattle Cam
+http://video4.earthcam.com:1935/fecnetwork/5019.flv/playlist.m3u8
+#EXTINF:-1,Statue of Liberty HarborCam
+http://video4.earthcam.com:1935/fecnetwork/libertyHD1.flv/playlist.m3u8
+#EXTINF:-1,Statue of Liberty Streaming
+http://video4.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/playlist.m3u8
+#EXTINF:-1,Sydney Cam
+http://video4.earthcam.com:1935/fecnetwork/4931.flv/playlist.m3u8
+#EXTINF:-1,Times Square Crossroads
+http://video4.earthcam.com:1935/fecnetwork/4717.flv/playlist.m3u8
+#EXTINF:-1,St. Lucie County Cams - Fort Pierce Inlet
+http://video4.earthcam.com:1935/fecnetwork/6076.flv/playlist.m3u8
+#EXTINF:-1,Reunion Tower Cam
+http://video4.earthcam.com:1935/fecnetwork/7524.flv/playlist.m3u8
+#EXTINF:-1,Statue of Liberty Streaming
+http://video4.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/playlist.m3u8
+#EXTINF:-1,Niagara Falls Cam
+http://video4.earthcam.com:1935/fecnetwork/4559.flv/playlist.m3u8
+#EXTINF:-1,Cats Meow Karaoke
+http://video4.earthcam.com:1935/fecnetwork/4281.flv/playlist.m3u8
+#EXTINF:-1,Elvis Wedding Chapel
+http://video4.earthcam.com:1935/fecnetwork/5359.flv/playlist.m3u8
+#EXTINF:-1,New Orleans Cats Meow Balcony
+http://video4.earthcam.com:1935/fecnetwork/4282.flv/playlist.m3u8
+#EXTINF:-1,Welcome to Fabulous Las Vegas
+http://video4.earthcam.com:1935/fecnetwork/eclasvegas.flv/playlist.m3u8
+#EXTINF:-1,Amsterdam Cam
+http://video4.earthcam.com:1935/fecnetwork/4098.flv/playlist.m3u8
+#EXTINF:-1,Bangkok Cam
+http://video4.earthcam.com:1935/fecnetwork/5034.flv/playlist.m3u8
+#EXTINF:-1,Boracay Cam
+http://video4.earthcam.com:1935/fecnetwork/philippinesHD1.flv/playlist.m3u8
+#EXTINF:-1,Cats Meow Karaoke
+http://video4.earthcam.com:1935/fecnetwork/4281.flv/playlist.m3u8
+#EXTINF:-1,Chicago Cam
+http://video4.earthcam.com:1935/fecnetwork/5187.flv/playlist.m3u8
+#EXTINF:-1,Dublin Pub Cam
+http://video4.earthcam.com:1935/fecnetwork/4054.flv/playlist.m3u8
+#EXTINF:-1,Eiffel Tower Streaming Cam
+http://video4.earthcam.com:1935/fecnetwork/eiffelcamHD.flv/playlist.m3u8
+#EXTINF:-1,Hamburg Cam
+http://video4.earthcam.com:1935/fecnetwork/3847fairmont.flv/playlist.m3u8
+#EXTINF:-1,Malta Cam
+http://video4.earthcam.com:1935/fecnetwork/5245.flv/playlist.m3u8
+#EXTINF:-1,Prague Cam
+http://video4.earthcam.com:1935/fecnetwork/4162.flv/playlist.m3u8
+#EXTINF:-1,Rio de Janeiro Cam - Copacabana South
+http://video4.earthcam.com:1935/fecnetwork/6593.flv/playlist.m3u8
+#EXTINF:-1,Silver Lake Sand Dunes Cam
+http://video4.earthcam.com:1935/fecnetwork/7928.flv/playlist.m3u8
+#EXTINF:-1,Sydney Cam
+http://video4.earthcam.com:1935/fecnetwork/4931.flv/playlist.m3u8
+#EXTINF:-1,Transylvania Cam
+http://video4.earthcam.com:1935/fecnetwork/5206.flv/playlist.m3u8
+#EXTINF:-1,Times Square 47th & Broadway
+http://video4.earthcam.com:1935/fecnetwork/hdtimes10.flv/playlist.m3u8
+#EXTINF:-1,Times Square South View
+http://video4.earthcam.com:1935/fecnetwork/4017timessquare.flv/playlist.m3u8
+#EXTINF:-1,Times Square Street Cam
+http://video4.earthcam.com:1935/fecnetwork/hdtimes11.flv/playlist.m3u8
+#EXTINF:-1,Budapest Cam
+http://video4.earthcam.com:1935/fecnetwork/hotelvictoria2.flv/playlist.m3u8
+#EXTINF:-1,Malta Cam
+http://video4.earthcam.com:1935/fecnetwork/5245.flv/playlist.m3u8
+#EXTINF:-1,Prague Cam
+http://video4.earthcam.com:1935/fecnetwork/4162.flv/playlist.m3u8
+#EXTINF:-1,Thassos
+ Greece,http://video4.earthcam.com:1935/fecnetwork/3792.flv/playlist.m3u8
+#EXTINF:-1,Transylvania Cam
+http://video4.earthcam.com:1935/fecnetwork/5206.flv/playlist.m3u8
+#EXTINF:-1,Bali Elephant Cam Bathing Pool
+http://video4.earthcam.com:1935/fecnetwork/4338.flv/playlist.m3u8
+#EXTINF:-1,Bali Elephant Cam Trail Path
+http://video4.earthcam.com:1935/fecnetwork/4337.flv/playlist.m3u8
+#EXTINF:-1,Bear Cam
+http://video4.earthcam.com:1935/fecnetwork/5097.flv/playlist.m3u8
+#EXTINF:-1,Doggy Daycare Cam - The Barkyard
+http://video4.earthcam.com:1935/fecnetwork/7710.flv/playlist.m3u8
+#EXTINF:-1,Giraffe Cam Barn
+http://video4.earthcam.com:1935/fecnetwork/4798.flv/playlist.m3u8
+#EXTINF:-1,Giraffe Cam Paddock
+http://video4.earthcam.com:1935/fecnetwork/4597.flv/playlist.m3u8
+#EXTINF:-1,Panda Cam
+http://video4.earthcam.com:1935/fecnetwork/pandacam.flv/playlist.m3u8
+#EXTINF:-1,Burrowing Owl Cam
+http://video4.earthcam.com:1935/fecnetwork/4968.flv/playlist.m3u8
+#EXTINF:-1,Essex Osprey Cam
+http://video4.earthcam.com:1935/fecnetwork/7786.flv/playlist.m3u8
+#EXTINF:-1,Illinois Falcon Cam
+http://video4.earthcam.com:1935/fecnetwork/370.flv/playlist.m3u8
+#EXTINF:-1,Omaha Falcon Cam
+http://video4.earthcam.com:1935/fecnetwork/woodmenHD.flv/playlist.m3u8
+#EXTINF:-1,Oxford Osprey Cam
+http://video4.earthcam.com:1935/fecnetwork/7130.flv/playlist.m3u8
+#EXTINF:-1,Sanibel Osprey Cam
+http://video4.earthcam.com:1935/fecnetwork/ospreycam.flv/playlist.m3u8
+#EXTINF:-1,Washington D.C. Osprey Cam
+http://video4.earthcam.com:1935/fecnetwork/5441.flv/playlist.m3u8
+#EXTINF:-1,Algonquin Park Cam
+http://video4.earthcam.com:1935/fecnetwork/5230.flv/playlist.m3u8
+#EXTINF:-1,Cherry Blossoms Cam
+http://video4.earthcam.com:1935/fecnetwork/4356.flv/playlist.m3u8
+#EXTINF:-1,Fort McHenry Cam - Fort View
+http://video4.earthcam.com:1935/fecnetwork/6998.flv/playlist.m3u8
+#EXTINF:-1,Fort McHenry Cam - Rampart View
+http://video4.earthcam.com:1935/fecnetwork/6999.flv/playlist.m3u8
+#EXTINF:-1,Gettysburg Battlefield Cam
+http://video4.earthcam.com:1935/fecnetwork/5536.flv/playlist.m3u8
+#EXTINF:-1,National Mall Cam
+http://video4.earthcam.com:1935/fecnetwork/7322.flv/playlist.m3u8
+#EXTINF:-1,Sandy Hook Cams - Lighthouse View
+http://video4.earthcam.com:1935/fecnetwork/6630.flv/playlist.m3u8
+#EXTINF:-1,Steamtown Cam
+http://video4.earthcam.com:1935/fecnetwork/5005.flv/playlist.m3u8
+#EXTINF:-1,WAMO Cam
+http://video4.earthcam.com:1935/fecnetwork/7132.flv/playlist.m3u8
+#EXTINF:-1,Daytona Cam
+http://video4.earthcam.com:1935/fecnetwork/5718.flv/playlist.m3u8
+#EXTINF:-1,Hillsboro Lighthouse Cam
+http://video4.earthcam.com:1935/fecnetwork/4135.flv/playlist.m3u8
+#EXTINF:-1,Lauderdale-By-The-Sea Cam
+http://video4.earthcam.com:1935/fecnetwork/windjammerHD2.flv/playlist.m3u8
+#EXTINF:-1,Palm Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/6391.flv/playlist.m3u8
+#EXTINF:-1,St. Lucie County Cams - Pier and Marina
+http://video4.earthcam.com:1935/fecnetwork/5965.flv/playlist.m3u8
+#EXTINF:-1,St. Lucie County Cams - River View
+http://video4.earthcam.com:1935/fecnetwork/5966.flv/playlist.m3u8
+#EXTINF:-1,Sunny Isles Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/miamivishd2.flv/playlist.m3u8
+#EXTINF:-1,Bognor Regis Cam
+http://video4.earthcam.com:1935/fecnetwork/5288.flv/playlist.m3u8
+#EXTINF:-1,Hampton Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/hampton-beach-cam.flv/playlist.m3u8
+#EXTINF:-1,Holden Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/4904.flv/playlist.m3u8
+#EXTINF:-1,Lake Michigan Cam
+http://video4.earthcam.com:1935/fecnetwork/4465.flv/playlist.m3u8
+#EXTINF:-1,San Juan Cam - Beach View
+http://video4.earthcam.com:1935/fecnetwork/3698sanjuan1.flv/playlist.m3u8
+#EXTINF:-1,Seaside Park Cam
+http://video4.earthcam.com:1935/fecnetwork/5423.flv/playlist.m3u8
+#EXTINF:-1,Sunny Isles Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/miamivishd2.flv/playlist.m3u8
+#EXTINF:-1,Costa Rica Cam
+http://video4.earthcam.com:1935/fecnetwork/5358.flv/playlist.m3u8
+#EXTINF:-1,Hawaii Surf Cam
+http://video4.earthcam.com:1935/fecnetwork/5204.flv/playlist.m3u8
+#EXTINF:-1,Kauai Cam
+http://video4.earthcam.com:1935/fecnetwork/4617.flv/playlist.m3u8
+#EXTINF:-1,Maui Cam
+http://video4.earthcam.com:1935/fecnetwork/6426.flv/playlist.m3u8
+#EXTINF:-1,Rio de Janeiro Cam - Copacabana South
+http://video4.earthcam.com:1935/fecnetwork/6593.flv/playlist.m3u8
+#EXTINF:-1,San Juan Cam - Aerial View
+http://video4.earthcam.com:1935/fecnetwork/3700sanjuan3.flv/playlist.m3u8
+#EXTINF:-1,San Juan Cam - Beach View
+http://video4.earthcam.com:1935/fecnetwork/3698sanjuan1.flv/playlist.m3u8
+#EXTINF:-1,St. Barts Cam
+http://video4.earthcam.com:1935/fecnetwork/3829laplage.flv/playlist.m3u8
+#EXTINF:-1,Waikoloa Cam
+http://video4.earthcam.com:1935/fecnetwork/5758.flv/playlist.m3u8
+#EXTINF:-1,Atlantis
+ The Palm - Dubai Skyline,http://video4.earthcam.com:1935/fecnetwork/5868.flv/playlist.m3u8
+#EXTINF:-1,Atlantis
+ The Palm - Hotel and Resort View,http://video4.earthcam.com:1935/fecnetwork/6405.flv/playlist.m3u8
+#EXTINF:-1,Bangkok Cam
+http://video4.earthcam.com:1935/fecnetwork/5034.flv/playlist.m3u8
+#EXTINF:-1,Boracay Cam
+http://video4.earthcam.com:1935/fecnetwork/philippinesHD1.flv/playlist.m3u8
+#EXTINF:-1,Tokyo Cam
+http://video4.earthcam.com:1935/fecnetwork/tokyo1.flv/playlist.m3u8
+#EXTINF:-1,Charging Bull Cam
+http://video4.earthcam.com:1935/fecnetwork/chargingbull.flv/playlist.m3u8
+#EXTINF:-1,Columbus Circle Cam
+http://video4.earthcam.com:1935/fecnetwork/6427.flv/playlist.m3u8
+#EXTINF:-1,High Line Cam
+http://video4.earthcam.com:1935/fecnetwork/7384.flv/playlist.m3u8
+#EXTINF:-1,Midtown NYC Skyline Cam
+http://video4.earthcam.com:1935/fecnetwork/5321.flv/playlist.m3u8
+#EXTINF:-1,Mulberry Street Cam
+http://video4.earthcam.com:1935/fecnetwork/5775.flv/playlist.m3u8
+#EXTINF:-1,Sandy Hook Cams - Fort View
+http://video4.earthcam.com:1935/fecnetwork/6633.flv/playlist.m3u8
+#EXTINF:-1,Sandy Hook Cams - Harbor View
+http://video4.earthcam.com:1935/fecnetwork/6632.flv/playlist.m3u8
+#EXTINF:-1,Sandy Hook Cams - NYC View
+http://video4.earthcam.com:1935/fecnetwork/6631.flv/playlist.m3u8
+#EXTINF:-1,Seaside Heights Cam - North View
+http://video4.earthcam.com:1935/fecnetwork/5173.flv/playlist.m3u8
+#EXTINF:-1,Seaside Heights Cam - South View
+http://video4.earthcam.com:1935/fecnetwork/6975.flv/playlist.m3u8
+#EXTINF:-1,Seaside Park Cam
+http://video4.earthcam.com:1935/fecnetwork/5423.flv/playlist.m3u8
+#EXTINF:-1,Wildwood Cam
+http://video4.earthcam.com:1935/fecnetwork/5732.flv/playlist.m3u8
+#EXTINF:-1,Austin Cam
+http://video4.earthcam.com:1935/fecnetwork/paradiseon6.flv/playlist.m3u8
+#EXTINF:-1,City of Pharr Cam
+http://video4.earthcam.com:1935/fecnetwork/7311.flv/playlist.m3u8
+#EXTINF:-1,Corpus Christi Cam
+http://video4.earthcam.com:1935/fecnetwork/4496.flv/playlist.m3u8
+#EXTINF:-1,Dealey Plaza Cam
+http://video4.earthcam.com:1935/fecnetwork/dealeyplaza2.flv/playlist.m3u8
+#EXTINF:-1,El Paso
+ TX Cam,http://video4.earthcam.com:1935/fecnetwork/5307.flv/playlist.m3u8
+#EXTINF:-1,San Jacinto Monument Cam
+http://video4.earthcam.com:1935/fecnetwork/6081.flv/playlist.m3u8
+#EXTINF:-1,Snyder
+ TX Cam,http://video4.earthcam.com:1935/fecnetwork/5666.flv/playlist.m3u8
+#EXTINF:-1,Las Vegas
+ New Mexico Cam,http://video4.earthcam.com:1935/fecnetwork/5465.flv/playlist.m3u8
+#EXTINF:-1,Santa Fe Cam
+http://video4.earthcam.com:1935/fecnetwork/4831.flv/playlist.m3u8
+#EXTINF:-1,Sedona Red Rock Cam
+http://video4.earthcam.com:1935/fecnetwork/sedonawebcam.flv/playlist.m3u8
+#EXTINF:-1,Sedona Seven Arches Cam
+http://video4.earthcam.com:1935/fecnetwork/5805.flv/playlist.m3u8
+#EXTINF:-1,Breckenridge Ski Cam
+http://video4.earthcam.com:1935/fecnetwork/7300.flv/playlist.m3u8
+#EXTINF:-1,Chicago Cam
+http://video4.earthcam.com:1935/fecnetwork/5187.flv/playlist.m3u8
+#EXTINF:-1,City of Cavalier Cam
+http://video4.earthcam.com:1935/fecnetwork/6698.flv/playlist.m3u8
+#EXTINF:-1,Eads Bridge Cam
+http://video4.earthcam.com:1935/fecnetwork/3724trailnet2.flv/playlist.m3u8
+#EXTINF:-1,Jackson Hole Cam
+http://video4.earthcam.com:1935/fecnetwork/6954.flv/playlist.m3u8
+#EXTINF:-1,Notre Dame Cam
+http://video4.earthcam.com:1935/fecnetwork/7962.flv/playlist.m3u8
+#EXTINF:-1,Saint Paul Cam
+http://video4.earthcam.com:1935/fecnetwork/7945.flv/playlist.m3u8
+#EXTINF:-1,St. Joseph Lighthouse Cam
+http://video4.earthcam.com:1935/fecnetwork/7484.flv/playlist.m3u8
+#EXTINF:-1,St. Louis Arch Cam
+http://video4.earthcam.com:1935/fecnetwork/meprd_garch.flv/playlist.m3u8
+#EXTINF:-1,St. Louis Cam
+http://video4.earthcam.com:1935/fecnetwork/stlouis.flv/playlist.m3u8
+#EXTINF:-1,Wrigley Field Cam
+http://video4.earthcam.com:1935/fecnetwork/3186.flv/playlist.m3u8
+#EXTINF:-1,Statue of Liberty HarborCam
+http://video4.earthcam.com:1935/fecnetwork/libertyHD1.flv/playlist.m3u8
+#EXTINF:-1,Aliso Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/5023.flv/playlist.m3u8
+#EXTINF:-1,Hollywood Blvd Cam
+http://video4.earthcam.com:1935/fecnetwork/lacitytours1.flv/playlist.m3u8
+#EXTINF:-1,Marina del Rey Cam
+http://video4.earthcam.com:1935/fecnetwork/uscmarina.flv/playlist.m3u8
+#EXTINF:-1,San Francisco Bayfront Cam
+http://video4.earthcam.com:1935/fecnetwork/6603.flv/playlist.m3u8
+#EXTINF:-1,Santa Monica Cam
+http://video4.earthcam.com:1935/fecnetwork/6253.flv/playlist.m3u8
+#EXTINF:-1,Venice Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/6175.flv/playlist.m3u8
+#EXTINF:-1,Washington Vineyard Cam
+http://video4.earthcam.com:1935/fecnetwork/7624.flv/playlist.m3u8
+#EXTINF:-1,Anguilla Cam
+http://video4.earthcam.com:1935/fecnetwork/anguilla.flv/playlist.m3u8
+#EXTINF:-1,Anguilla Cam - Aleta Pool
+http://video4.earthcam.com:1935/fecnetwork/7393.flv/playlist.m3u8
+#EXTINF:-1,Aruba Cam - Bucuti Beach Wing
+http://video4.earthcam.com:1935/fecnetwork/4646.flv/playlist.m3u8
+#EXTINF:-1,Aruba Cam - Druif Beach
+http://video4.earthcam.com:1935/fecnetwork/6723.flv/playlist.m3u8
+#EXTINF:-1,Aruba Cam - Eagle Beach
+http://video4.earthcam.com:1935/fecnetwork/4644.flv/playlist.m3u8
+#EXTINF:-1,Jamaica Cam
+http://video4.earthcam.com:1935/fecnetwork/4369.flv/playlist.m3u8
+#EXTINF:-1,St. Barts Cam
+http://video4.earthcam.com:1935/fecnetwork/3829laplage.flv/playlist.m3u8
+#EXTINF:-1,St. Croix Cam
+http://video4.earthcam.com:1935/fecnetwork/4480.flv/playlist.m3u8
+#EXTINF:-1,Amsterdam Cam
+http://video4.earthcam.com:1935/fecnetwork/4098.flv/playlist.m3u8
+#EXTINF:-1,Eiffel Tower Streaming Cam
+http://video4.earthcam.com:1935/fecnetwork/eiffelcamHD.flv/playlist.m3u8
+#EXTINF:-1,Hamburg Cam
+http://video4.earthcam.com:1935/fecnetwork/3847fairmont.flv/playlist.m3u8
+#EXTINF:-1,Iceland Cam
+http://video4.earthcam.com:1935/fecnetwork/5299.flv/playlist.m3u8
+#EXTINF:-1,Prague Cam
+http://video4.earthcam.com:1935/fecnetwork/4162.flv/playlist.m3u8
+#EXTINF:-1,Destin Cam
+http://video4.earthcam.com:1935/fecnetwork/5424.flv/playlist.m3u8
+#EXTINF:-1,Fort Myers Beach
+ Aerial View,http://video4.earthcam.com:1935/fecnetwork/5719.flv/playlist.m3u8
+#EXTINF:-1,Fort Myers Beach
+ The Palms,http://video4.earthcam.com:1935/fecnetwork/diamondhead.flv/playlist.m3u8
+#EXTINF:-1,Naples Panorama Cam
+http://video4.earthcam.com:1935/fecnetwork/7439.flv/playlist.m3u8
+#EXTINF:-1,Panama City Cam
+http://video4.earthcam.com:1935/fecnetwork/pinewill.flv/playlist.m3u8
+#EXTINF:-1,Sandestin Beach
+http://video4.earthcam.com:1935/fecnetwork/5663.flv/playlist.m3u8
+#EXTINF:-1,Sanibel Island Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/interactoneHDCam1.flv/playlist.m3u8
+#EXTINF:-1,Sunset Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/6649.flv/playlist.m3u8
+#EXTINF:-1,Amman Cam
+http://video4.earthcam.com:1935/fecnetwork/4518.flv/playlist.m3u8
+#EXTINF:-1,Amman Citadel Cam
+http://video4.earthcam.com:1935/fecnetwork/4516.flv/playlist.m3u8
+#EXTINF:-1,Aqaba Cam
+http://video4.earthcam.com:1935/fecnetwork/4519.flv/playlist.m3u8
+#EXTINF:-1,Dead Sea Cam
+http://video4.earthcam.com:1935/fecnetwork/4517.flv/playlist.m3u8
+#EXTINF:-1,Ma'in Hot Springs Cam
+http://video4.earthcam.com:1935/fecnetwork/4515.flv/playlist.m3u8
+#EXTINF:-1,Coconut Grove Marina Cam
+http://video4.earthcam.com:1935/fecnetwork/miamivishd3.flv/playlist.m3u8
+#EXTINF:-1,Downtown Miami
+http://video4.earthcam.com:1935/fecnetwork/miamivishd5.flv/playlist.m3u8
+#EXTINF:-1,Miami Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/miamivishd1.flv/playlist.m3u8
+#EXTINF:-1,Miami Biscayne Bay Cam
+http://video4.earthcam.com:1935/fecnetwork/miamivishd4.flv/playlist.m3u8
+#EXTINF:-1,Miami News Cafe
+http://video4.earthcam.com:1935/fecnetwork/3644newscafe.flv/playlist.m3u8
+#EXTINF:-1,Ocean Drive Cam
+http://video4.earthcam.com:1935/fecnetwork/5751.flv/playlist.m3u8
+#EXTINF:-1,South Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/miamivishd7.flv/playlist.m3u8
+#EXTINF:-1,Sunny Isles Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/miamivishd2.flv/playlist.m3u8
+#EXTINF:-1,Belmont Cam
+http://video4.earthcam.com:1935/fecnetwork/5324.flv/playlist.m3u8
+#EXTINF:-1,Giraffe Cam Barn
+http://video4.earthcam.com:1935/fecnetwork/4798.flv/playlist.m3u8
+#EXTINF:-1,Giraffe Cam Paddock
+http://video4.earthcam.com:1935/fecnetwork/4597.flv/playlist.m3u8
+#EXTINF:-1,Kiawah Island Beach
+http://video4.earthcam.com:1935/fecnetwork/6320.flv/playlist.m3u8
+#EXTINF:-1,Kiawah Island Golf Cam
+http://video4.earthcam.com:1935/fecnetwork/3304.flv/playlist.m3u8
+#EXTINF:-1,Myrtle Beach Cam
+http://video4.earthcam.com:1935/fecnetwork/3635.flv/playlist.m3u8
+#EXTINF:-1,Pacolet River
+http://video4.earthcam.com:1935/fecnetwork/4387.flv/playlist.m3u8
+#EXTINF:-1,St. Lucie County Cams - Fort Pierce Inlet
+http://video4.earthcam.com:1935/fecnetwork/6076.flv/playlist.m3u8
+#EXTINF:-1,Reunion Tower Cam
+http://video4.earthcam.com:1935/fecnetwork/7524.flv/playlist.m3u8
+#EXTINF:-1,Statue of Liberty Streaming
+http://video4.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/playlist.m3u8
+#EXTINF:-1,Niagara Falls Cam
+http://video4.earthcam.com:1935/fecnetwork/4559.flv/playlist.m3u8

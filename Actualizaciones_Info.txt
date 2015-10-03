@@ -1,2 +1,1 @@
-Updates_Stats esta descontinuado
 Updater debe ir primero en la lista de 'Actualizaciones.txt'
