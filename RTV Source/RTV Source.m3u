@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,TotalPlay
+RTV_LIST_BROWSE://http://rosadintv.github.io/RTV Source/TotalPlay.m3u
+#EXTINF:-1,Camaras
+RTV_LIST_BROWSE://http://rosadintv.github.io/RTV Source/Listas/Camaras.m3u
+#EXTINF:-1,Principal
+RTV_LIST_BROWSE://http://rosadintv.github.io/RTV Source/Listas/Principal.m3u
+#EXTINF:-1,Stalker
+RTV_LIST_BROWSE://http://rosadintv.github.io/RTV Source/Listas/Stalker.m3u
