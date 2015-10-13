@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Simpsons TV
 http://vaughnlive.tv/mega_simpson
+#EXTINF:-1,Vorterix
+http://prepublish.f.qaotic.net/epa2/ngrp:vorterix_video1-20057_all/chunklist_b2096000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Safari/537.36
 #EXTINF:-1,Radio Uno Plus
 http://streaming.radionomy.com/radiounoplus
 #EXTINF:-1,ONE TV
